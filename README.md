@@ -33,6 +33,16 @@ streamlit run app.py
 
 4. Ensure that ChromeDriver is installed and compatible with your Chrome browser version.
 
+## Screenshots
+
+### Home Page
+![Home Page]![Screenshot 2025-04-22 193712](https://github.com/user-attachments/assets/d1bd11a0-218f-4939-a009-4e47106d86d1)
+
+
+### Search Results
+![Search Results]![Screenshot 2025-04-20 181415](https://github.com/user-attachments/assets/471b0c89-7d18-44a0-8002-8f5bfbedb3f8)
+
+
 ## Future Enhancements
 
 Support for other websites like Flipkart and BookDepository  
